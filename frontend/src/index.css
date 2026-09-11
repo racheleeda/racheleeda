@@ -1,0 +1,6 @@
+/* Import existing theme styles */
+@import './styles/theme.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
